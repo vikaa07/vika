@@ -413,7 +413,7 @@ ul .hh {
    justify-content: center;
 }
   }
-  @media all and (max-width: 480px) {
+@media all and (max-width: 480px) {
    .t h3 {
       text-align: center;
       padding-left: 0px;
@@ -437,4 +437,21 @@ ul .hh {
    padding-bottom: 0px;
    font-size: 12px
 }
-  }
+.qw {
+   display: grid;
+   grid-gap: 0 25px;
+   grid-template-columns: repeat(1, 400px);
+   justify-content: center;
+}
+.bnm {
+   display: grid;
+   grid-gap: 0 25px;
+   grid-template-columns: repeat(1, 400px);
+   justify-content: center;}
+   .xz img {
+      width: 100%;
+   }
+   .w img {
+      width: 100%;
+   }
+}
