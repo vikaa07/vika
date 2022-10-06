@@ -413,5 +413,28 @@ ul .hh {
    justify-content: center;
 }
   }
-
-  
+  @media all and (max-width: 480px) {
+   .t h3 {
+      text-align: center;
+      padding-left: 0px;
+      padding-right: 0px;
+      padding-top: 0px;
+      padding-bottom: 0px;
+  }
+  .t h2 {
+   text-align: center;
+   padding-left: 0px;
+   padding-right: 0px;
+   padding-top: 0px;
+   padding-bottom: 0px;
+   font-size: 12px;
+}
+.z p {
+   text-align: center;
+   padding-left: 0px;
+   padding-right: 0px;
+   padding-top: 0px;
+   padding-bottom: 0px;
+   font-size: 12px
+}
+  }
